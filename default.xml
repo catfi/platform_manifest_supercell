@@ -3,4 +3,8 @@
 	<remote  name="origin" fetch="ssh://git@github.com/"/>
 	<default revision="master" remote="origin"/>
 	<project path="platform" name="zillians/platform"/>
+	<project path="platform/projects/common" name="zillians/platform_common"/>
+	<project path="platform/projects/framework" name="zillians/platform_framework"/>
+	<project path="platform/projects/protocol" name="zillians/platform_protocol"/>
+	<project path="platform/projects/node" name="zillians/platform_node"/>
 </manifest>
