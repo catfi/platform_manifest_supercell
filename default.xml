@@ -8,4 +8,5 @@
 	<project path="platform/projects/framework" name="zillians/platform_framework"/>
 	<project path="platform/projects/protocol" name="zillians/platform_protocol"/>
 	<project path="platform/projects/node" name="zillians/platform_node"/>
+	<project path="platform/projects/tools" name="zillians/platform_tools"/>
 </manifest>
