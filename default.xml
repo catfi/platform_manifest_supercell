@@ -3,6 +3,7 @@
 	<remote  name="origin" fetch="ssh://git@github.com/"/>
 	<default revision="master" remote="origin"/>
 	<project path="platform" name="zillians/platform"/>
+	<project path="platform/projects/docs" name="zillians/platform_docs"/>
 	<project path="platform/projects/client" name="zillians/platform_client"/>
 	<project path="platform/projects/common" name="zillians/platform_common"/>
 	<project path="platform/projects/framework" name="zillians/platform_framework"/>
