@@ -30,6 +30,14 @@ Dependencies
 Build
 -----
 
+1. Download repo from here: http://code.google.com/p/git-repo/downloads/list
+2. chmod +x repo (you can put it under /usr/sbin)
+3. repo init -u git@github.com:zillians/platform_manifest_supercell.git
+4. repo sync
+5. repo forall -c git checkout -b master --track origin/master
+6. repo forall -c git checkout -b develop --track origin/develop
+7. cd platform; mkdir build; cd build;
+8. cmake ..; make -j4
 
 Installation
 ------------
