@@ -7,7 +7,7 @@
 	<project path="platform/projects/client" name="zillians/platform_client"/>
 	<project path="platform/projects/common" name="zillians/platform_common"/>
 	<project path="platform/projects/network" name="zillians/platform_network"/>
-	<project path="platform/projects/clustering" name="zillians/platform_clustering"/>
+	<project path="platform/projects/cluster" name="zillians/platform_cluster"/>
 	<project path="platform/projects/language" name="zillians/platform_language"/>
 	<project path="platform/projects/framework" name="zillians/platform_framework"/>
 	<project path="platform/projects/protocol" name="zillians/platform_protocol"/>
