@@ -4,14 +4,12 @@
 	<default revision="master" remote="origin"/>
 	<project path="platform" name="zillians/platform"/>
 	<project path="platform/projects/docs" name="zillians/platform_docs"/>
-	<project path="platform/projects/client" name="zillians/platform_client"/>
 	<project path="platform/projects/common" name="zillians/platform_common"/>
 	<project path="platform/projects/network" name="zillians/platform_network"/>
-	<project path="platform/projects/cluster" name="zillians/platform_cluster"/>
+	<project path="platform/projects/network_addon" name="zillians/platform_network_addon"/>
 	<project path="platform/projects/language" name="zillians/platform_language"/>
 	<project path="platform/projects/framework" name="zillians/platform_framework"/>
 	<project path="platform/projects/protocol" name="zillians/platform_protocol"/>
-	<project path="platform/projects/node" name="zillians/platform_node"/>
 	<project path="platform/projects/runtime" name="zillians/platform_runtime"/>
 	<project path="platform/projects/tools" name="zillians/platform_tools"/>
 </manifest>
