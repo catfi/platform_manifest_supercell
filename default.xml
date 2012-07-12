@@ -11,5 +11,5 @@
 	<project path="platform/projects/framework" name="zillians/platform_framework"/>
 	<project path="platform/projects/protocol" name="zillians/platform_protocol"/>
 	<project path="platform/projects/runtime" name="zillians/platform_runtime"/>
-	<project path="platform/projects/tools" name="zillians/platform_tools"/>
+	<project path="platform/projects/runtime_addon" name="zillians/platform_runtime_addon"/>
 </manifest>
