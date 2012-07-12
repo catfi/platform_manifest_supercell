@@ -9,6 +9,7 @@
 	<project path="platform/projects/network_addon" name="zillians/platform_network_addon"/>
 	<project path="platform/projects/language" name="zillians/platform_language"/>
 	<project path="platform/projects/framework" name="zillians/platform_framework"/>
+	<project path="platform/projects/framework_addon" name="zillians/platform_framework_addon"/>
 	<project path="platform/projects/protocol" name="zillians/platform_protocol"/>
 	<project path="platform/projects/runtime" name="zillians/platform_runtime"/>
 	<project path="platform/projects/runtime_addon" name="zillians/platform_runtime_addon"/>
